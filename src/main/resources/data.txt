@@ -1,0 +1,10 @@
+country;city;population
+Spain;Barcelona;1600000
+Spain;Alicante;331577
+Hungary;Budapest;1700000
+UK;London;9000000
+Ireland;Dublin;1500000
+Japan;Tokyo;14000000
+Brazil;Rio;7000000
+Germany;Berlin;4000000
+Russia;Moscow;1800000
