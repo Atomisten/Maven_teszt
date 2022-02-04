@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad7b1f6a-4eb1-44d4-9f69-9ea6f9fa963b" name="Changes" comment="teszt3">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ad7b1f6a-4eb1-44d4-9f69-9ea6f9fa963b" name="Changes" comment="nemtom mivan" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,13 +26,22 @@
     </excluded-from-favorite>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="KEEP" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectId" id="24e5SZ8F0elV0gamsowtltKddTw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -59,7 +69,21 @@
       <option name="project" value="LOCAL" />
       <updated>1643978243551</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="nemtom mivan">
+      <created>1643978717427</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1643978717427</updated>
+    </task>
+    <task id="LOCAL-00003" summary="nemtom mivan">
+      <created>1643978906562</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1643978906562</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -75,6 +99,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="teszt3" />
-    <option name="LAST_COMMIT_MESSAGE" value="teszt3" />
+    <MESSAGE value="nemtom mivan" />
+    <option name="LAST_COMMIT_MESSAGE" value="nemtom mivan" />
   </component>
 </project>
