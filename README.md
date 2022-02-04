@@ -1,2 +1,0 @@
-# Maven_teszt
-teszt
