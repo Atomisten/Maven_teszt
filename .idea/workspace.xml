@@ -33,6 +33,16 @@
     <option name="RESET_MODE" value="KEEP" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
+  <component name="GitRewordedCommitMessages">
+    <option name="commitMessagesMapping">
+      <RewordedCommitMessageMapping>
+        <option name="originalMessage" value="teszt git" />
+        <option name="rewordedMessage" value="nemtom mivan&#10;&#10;&#10;nemtom mivan&#10;&#10;&#10;Revert &quot;MAVEN prepared&quot;&#10;&#10;This reverts commit de83e99089ba7292968cc431e0ed7a84ede3a0f1.&#10;&#10;&#10;nemtom mivan&#10;&#10;&#10;MAVEN prepared&#10;&#10;&#10;MAVEN prepared&#10;&#10;&#10;teszt git" />
+      </RewordedCommitMessageMapping>
+    </option>
+    <option name="currentCommit" value="1" />
+    <option name="onto" value="93c0de47b3eeb33f9c7f7ec5b824fd0a76b2e8dd" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
