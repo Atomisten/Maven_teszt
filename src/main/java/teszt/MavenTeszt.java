@@ -23,7 +23,7 @@ public class MavenTeszt {
 //        idDog(1);
 //        allDog();
 //        updateDog(10, 1);
-//        allDogLimit(3,2);
+        allDogLimit(3,2);
     }
 
 
@@ -53,11 +53,7 @@ public class MavenTeszt {
 
     private static void createTable(String breed, String name, String age, String friendly) {
         try (Connection connection = DriverManager.getConnection(DB_URL, USER, PASSWORD)) {
-            String createTable = "CREATE TABLE IF NOT EXISTS dogs (" + "id INT PRIMARY KEY AUTO_INCREMENT, " +
-                    breed + " VARCHAR(100), " +
-                    name + " VARCHAR(100), " +
-                    age + " INT, " +
-                    friendly + " BOOLEAN); ";
+            String createTable = "CREATE TABLE IF NOT EXISTS dogs (" + "id INT PRIMARY KEY AUTO_INCREMENT, " + breed + " VARCHAR(100), " + name + " VARCHAR(100), " + age + " INT, " + friendly + " BOOLEAN); ";
             PreparedStatement preparedStatement = connection.prepareStatement(createTable); //Kocsint/Serpa
             preparedStatement.execute(createTable);
         } catch (SQLException throwables) {
